@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://github.com/HuzaifaOffcial">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Huzaifa+Ejaz+Kahlon;Flutter+Developer;Firebase+%7C+Dart+%7C+UI%2FUX+Enthusiast;Let's+build+something+great+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Huzaifa+Ejaz+Kahlon;Flutter+Developer;Firebase+%7C+Dart+%7C+UI%2FUX;Let's+build+something+great+%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 </p>
+
 
 
 Welcome to my official portfolio repository! I'm a passionate Junior Mobile App Developer based in Pakistan. I specialize in building cross-platform apps using **Flutter, Dart, and Firebase**, with a strong focus on UI/UX and performance.
