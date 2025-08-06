@@ -12,12 +12,24 @@ I’m an aspiring mobile application developer with hands-on experience in devel
 
 ## 🛠️ Skills
 
-- **Languages:** Dart, Java, HTML, CSS, JavaScript
-- **Frameworks & Tools:** Flutter, Firebase, REST APIs, Git
-- **Databases:** SQL, MySQL, Firebase Realtime Database
-- **UI/UX:** Figma, Canva, Responsive Design
-- **AI/NLP Integration:** Groq API, LlamaIndex, OpenRouter API
-- **Soft Skills:** Leadership, Communication, Problem-Solving, Time Management
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
+![Firebase Realtime Database](https://img.shields.io/badge/firebase%20database-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=flat)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=flat&logo=canva&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=flat)
+![Groq API](https://img.shields.io/badge/Groq%20API-lightgrey?style=flat)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-%23000000.svg?style=flat)
+![OpenRouter API](https://img.shields.io/badge/OpenRouter%20API-%2300A4EF.svg?style=flat)
+
 
 ---
 
