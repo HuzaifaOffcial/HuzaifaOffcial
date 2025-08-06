@@ -1,4 +1,9 @@
-# 👨‍💻 Huzaifa Ejaz Kahlon – Mobile App Developer
+<p align="center">
+  <a href="https://github.com/HuzaifaOffcial">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Huzaifa+Ejaz+Kahlon;Flutter+Developer;Firebase+%7C+Dart+%7C+UI%2FUX+Enthusiast;Let's+build+something+great+%F0%9F%92%BB" alt="Typing SVG" />
+  </a>
+</p>
+
 
 Welcome to my official portfolio repository! I'm a passionate Junior Mobile App Developer based in Pakistan. I specialize in building cross-platform apps using **Flutter, Dart, and Firebase**, with a strong focus on UI/UX and performance.
 
@@ -50,6 +55,15 @@ A mobile app enabling users to upload, buy, rent, borrow, and share books. Featu
 - **GitHub:** [github.com/HuzaifaOffcial](https://github.com/HuzaifaOffcial)
 
 ---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=HuzaifaOffcial&theme=radical&show_icons=true&hide_border=false&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=HuzaifaOffcial&theme=radical&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HuzaifaOffcial&theme=radical&hide_border=false&layout=compact)
+
 
 ## 🌐 Live Portfolio & CV
 
