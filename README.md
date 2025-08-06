@@ -1,6 +1,6 @@
 # 👨‍💻 Huzaifa Ejaz Kahlon – Mobile App Developer
 
-Welcome to my official portfolio repository! I'm a passionate Mobile App Developer based in Lahore, Pakistan. I specialize in building cross-platform apps using **Flutter, Dart, and Firebase**, with a strong focus on UI/UX and performance.
+Welcome to my official portfolio repository! I'm a passionate Junior Mobile App Developer based in Pakistan. I specialize in building cross-platform apps using **Flutter, Dart, and Firebase**, with a strong focus on UI/UX and performance.
 
 ---
 
